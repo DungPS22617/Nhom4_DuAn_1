@@ -14,10 +14,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
-
 import com.example.nhom4_duan_1.R;
 import com.example.nhom4_duan_1.models.Users;
-import com.example.nhom4_duan_1.models.Vouchers;
 import com.google.android.gms.auth.api.signin.GoogleSignIn;
 import com.google.android.gms.auth.api.signin.GoogleSignInClient;
 import com.google.android.gms.auth.api.signin.GoogleSignInOptions;
@@ -35,7 +33,6 @@ import com.google.firebase.storage.UploadTask;
 import com.squareup.picasso.Picasso;
 
 import java.io.ByteArrayOutputStream;
-import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.HashMap;
 import java.util.Map;

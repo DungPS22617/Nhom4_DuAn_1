@@ -14,7 +14,6 @@ import android.widget.TextView;
 
 import com.example.nhom4_duan_1.R;
 import com.example.nhom4_duan_1.adapters.ProductAdapter;
-import com.example.nhom4_duan_1.dao.BillDao;
 import com.example.nhom4_duan_1.models.Products;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
